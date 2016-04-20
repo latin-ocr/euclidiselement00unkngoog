@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./euclidiselement00unkngoog_0194.png"; bbox 0 0 2782 4637; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 606 612 617 765">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 606 612 617 765">
+     <span class='ocr_line' id='line_1_1' title="bbox 606 612 617 765; baseline 76.5 -306"><span class='ocrx_word' id='word_1_1' title='bbox 606 612 617 765; x_wconf 54' lang='lat'><strong>1110«.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 302 388 330 943">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 302 388 330 943">
+     <span class='ocr_line' id='line_1_2' title="bbox 302 388 330 943; baseline 138.75 -832.5"><span class='ocrx_word' id='word_1_2' title='bbox 302 388 328 625; x_wconf 43' lang='lat' dir='ltr'><strong>..nutris</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 305 616 330 749; x_wconf 52' lang='lat' dir='ltr'><strong>shuts·</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 306 752 319 899; x_wconf 56' lang='lat' dir='ltr'><strong>if.-</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 314 935 319 943; x_wconf 90' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
